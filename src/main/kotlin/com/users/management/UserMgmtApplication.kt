@@ -1,4 +1,4 @@
-package com.users.user_mgmt
+package com.users.management
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

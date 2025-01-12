@@ -1,7 +1,7 @@
-package com.users.user_mgmt.controller
+package com.users.management.controller
 
-import com.users.user_mgmt.data.User
-import com.users.user_mgmt.service.UserService
+import com.users.management.data.User
+import com.users.management.service.UserService
 import jakarta.validation.Valid
 import org.springframework.http.HttpStatus
 import org.springframework.http.ResponseEntity

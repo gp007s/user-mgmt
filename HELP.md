@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.users.user-mgmt' is invalid and this project uses 'com.users.user_mgmt' instead.
+* The original package name 'com.users.user-mgmt' is invalid and this project uses 'com.users.management' instead.
 
 # Getting Started
 

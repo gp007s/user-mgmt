@@ -1,4 +1,4 @@
-package com.users.user_mgmt.data
+package com.users.management.data
 
 import jakarta.validation.constraints.Email
 import jakarta.validation.constraints.NotBlank
