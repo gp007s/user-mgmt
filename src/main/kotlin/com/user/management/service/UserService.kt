@@ -1,6 +1,6 @@
-package com.users.management.service
+package com.user.management.service
 
-import com.users.management.data.User
+import com.user.management.data.User
 import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.launch
 import org.springframework.stereotype.Service

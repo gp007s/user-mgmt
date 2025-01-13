@@ -1,4 +1,4 @@
-package com.users.management.exception
+package com.user.management.exception
 
 import org.springframework.http.HttpStatus
 import org.springframework.http.ResponseEntity
